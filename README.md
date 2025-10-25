@@ -1,1 +1,7 @@
-# LR2-WEB-var12
+# LR2-WEB
+
+Figma
+![Figma Screenshot](images/figma.png)
+
+My work
+![Project Screenshot](images/site.png)
